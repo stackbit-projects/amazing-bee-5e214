@@ -54,6 +54,7 @@ params:
         style: icon
         icon: linkedin
         new_window: true
+  domain: 'https://amazing-bee-5e214.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:
